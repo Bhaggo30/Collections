@@ -18,5 +18,6 @@ public class Queue_Interface {
         System.out.println(queue.offer("jack"));
         System.out.println(queue.isEmpty());
         System.out.println(queue);
+
     }
 }
